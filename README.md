@@ -1,7 +1,7 @@
 # 王浩 Hao Wang | 智算无界
 
 <div align="center">
-  <img src="public/images/avatar.jpg" alt="Hao Wang Avatar" width="120" height="120" style="border-radius: 50%;">
+  <img src="public/images/avatar6.jpg" alt="Hao Wang Avatar" width="120" height="120" style="border-radius: 50%;">
   <br>
   <strong>A Next-Gen Personal Portfolio Website</strong>
   <br>
