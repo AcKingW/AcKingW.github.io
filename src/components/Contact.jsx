@@ -25,7 +25,7 @@ export default function Contact() {
               <p className="text-gray-400 mb-4">期待与您交流前沿 AI 技术与合作机会。</p>
               
               <div className="space-y-6 max-w-sm mx-auto">
-                <a href="tel:+8613954950677" className="flex items-center gap-4 text-gray-300 hover:text-neon-cyan transition-colors group/link justify-center">
+                <a href="tel:13954950677" className="flex items-center gap-4 text-gray-300 hover:text-neon-cyan transition-colors group/link justify-center">
                   <div className="p-3 bg-white/5 rounded-lg border border-white/10 group-hover/link:border-neon-cyan/50 group-hover/link:shadow-[0_0_10px_#00f3ff] transition-all">
                     <Phone size={20} />
                   </div>
