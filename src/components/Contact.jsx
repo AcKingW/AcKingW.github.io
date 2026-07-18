@@ -32,11 +32,11 @@ export default function Contact() {
                   <span className="font-mono text-lg tracking-wide">13954950677</span>
                 </a>
 
-                <a href="mailto:10431240178@stu.qlu.edu.cn" className="flex items-center gap-4 text-gray-300 hover:text-cyber-purple transition-colors group/link justify-center">
+                <a href="mailto:wanghao.ac@foxmail.com" className="flex items-center gap-4 text-gray-300 hover:text-cyber-purple transition-colors group/link justify-center">
                   <div className="p-3 bg-white/5 rounded-lg border border-white/10 group-hover/link:border-cyber-purple/50 group-hover/link:shadow-[0_0_10px_#b026ff] transition-all">
                     <Mail size={20} />
                   </div>
-                  <span className="font-mono text-sm tracking-wide">10431240178@stu.qlu.edu.cn</span>
+                  <span className="font-mono text-sm tracking-wide">wanghao.ac@foxmail.com</span>
                 </a>
 
                 <a href="https://github.com/AcKingW" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors group/link justify-center">
